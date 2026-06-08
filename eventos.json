@@ -1,1 +1,24 @@
 
+{
+  "app": {
+    "version": "1.0.0",
+    "minVersion": "1.0.0",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.heipdesign.feriapp",
+    "updateMessage": "¡Nueva versión de Feriapp disponible! Actualiza para disfrutar de las últimas mejoras."
+  },
+  "data": {
+    "puntos-interes": {
+      "version": "2026-06-08T12:00:00Z",
+      "url": "https://KioX66.github.io/feriapp-data/puntos-interes.json"
+    },
+    "eventos": {
+      "version": "2026-06-08T12:00:00Z",
+      "url": "https://KioX66.github.io/feriapp-data/eventos.json"
+    },
+    "casetas": {
+      "version": "2026-06-08T12:00:00Z",
+      "url": "https://KioX66.github.io/feriapp-data/casetas.json"
+    }
+  },
+  "lastUpdated": "2026-06-08T12:00:00Z"
+}
