@@ -1,1 +1,48 @@
 
+[
+  { "id": "punto-1b", "nombre": "Entrada Paseo de la Feria", "tipo": "entrada", "lat": 38.99360, "lng": -1.85575, "icono": "enter", "descripcion": "Acceso por el Paseo de la Feria" },
+  { "id": "punto-2", "nombre": "Casetas - Calle del Infierno (norte)", "tipo": "caseta", "lat": 38.99430, "lng": -1.85480, "icono": "beer", "descripcion": "Zona de casetas y peñas" },
+  { "id": "punto-2b", "nombre": "Casetas - Zona centro", "tipo": "caseta", "lat": 38.99350, "lng": -1.85400, "icono": "beer", "descripcion": "Casetas zona central del recinto" },
+  { "id": "punto-3", "nombre": "Parada taxis", "tipo": "taxi", "lat": 38.99400, "lng": -1.85350, "icono": "taxi", "descripcion": "Parada taxis" },
+  { "id": "punto-7", "nombre": "Plaza de Toros", "tipo": "otro", "lat": 38.99680, "lng": -1.85145, "icono": "location", "descripcion": "Plaza de Toros de Albacete" },
+  { "id": "punto-8", "nombre": "Recinto de Conciertos", "tipo": "otro", "lat": 38.99310, "lng": -1.85270, "icono": "location", "descripcion": "Escenario principal de conciertos" },
+  { "id": "pincho-1", "nombre": "Pincho de la feria", "tipo": "otro", "lat": 38.99692, "lng": -1.86788, "icono": "location", "descripcion": "Pincho de la feria" },
+
+  { "id": "wc-1", "nombre": "Aseo Feria wc.5", "tipo": "aseo", "lat": 38.99658, "lng": -1.87007, "icono": "restroom", "descripcion": "Aseo público del recinto ferial" },
+  { "id": "wc-2", "nombre": "Aseo Feria wc.8", "tipo": "aseo", "lat": 38.99740, "lng": -1.87153, "icono": "restroom", "descripcion": "Aseo público del recinto ferial" },
+  { "id": "wc-3", "nombre": "Aseo Feria wc.9", "tipo": "aseo", "lat": 38.99723, "lng": -1.87156, "icono": "restroom", "descripcion": "Aseo público del recinto ferial" },
+  { "id": "wc-4", "nombre": "Aseo Feria wc.10", "tipo": "aseo", "lat": 38.99749, "lng": -1.87124, "icono": "restroom", "descripcion": "Aseo público del recinto ferial" },
+  { "id": "wc-5", "nombre": "Aseo Feria wc.12", "tipo": "aseo", "lat": 38.99741, "lng": -1.86667, "icono": "restroom", "descripcion": "Aseo público del recinto ferial" },
+  { "id": "wc-6", "nombre": "Aseo Feria wc.13", "tipo": "aseo", "lat": 38.99687, "lng": -1.86424, "icono": "restroom", "descripcion": "Aseo público del recinto ferial" },
+  { "id": "wc-7", "nombre": "Aseo Feria wc.6", "tipo": "aseo", "lat": 38.99752, "lng": -1.86986, "icono": "restroom", "descripcion": "Aseo público del recinto ferial" },
+  { "id": "wc-8", "nombre": "Aseo Feria wc.4", "tipo": "aseo", "lat": 38.99573, "lng": -1.86988, "icono": "restroom", "descripcion": "Aseo público del recinto ferial" },
+  { "id": "wc-9", "nombre": "Aseo Feria wc.7", "tipo": "aseo", "lat": 38.99798, "lng": -1.86889, "icono": "restroom", "descripcion": "Aseo público del recinto ferial" },
+  { "id": "wc-10", "nombre": "Aseo Feria wc.2", "tipo": "aseo", "lat": 38.99595, "lng": -1.87175, "icono": "restroom", "descripcion": "Aseo público del recinto ferial" },
+  { "id": "wc-11", "nombre": "Aseo Feria wc.17", "tipo": "aseo", "lat": 38.99832, "lng": -1.86973, "icono": "restroom", "descripcion": "Aseo público del recinto ferial" },
+  { "id": "wc-12", "nombre": "Aseo Feria wc.18", "tipo": "aseo", "lat": 38.99643, "lng": -1.86746, "icono": "restroom", "descripcion": "Aseo público del recinto ferial" },
+  { "id": "wc-13", "nombre": "Aseo Feria wc.19", "tipo": "aseo", "lat": 38.99646, "lng": -1.87182, "icono": "restroom", "descripcion": "Aseo público del recinto ferial" },
+  { "id": "wc-14", "nombre": "Aseo Feria wc.1", "tipo": "aseo", "lat": 38.99598, "lng": -1.87065, "icono": "restroom", "descripcion": "Aseo público del recinto ferial" },
+  { "id": "wc-15", "nombre": "Aseo Feria wc.11", "tipo": "aseo", "lat": 38.99642, "lng": -1.86594, "icono": "restroom", "descripcion": "Aseo público del recinto ferial" },
+
+   { "id": "taxi-2", "nombre": "Parada taxi 2", "tipo": "taxi", "lat": 38.997721, "lng": -1.867067, "icono": "taxi", "descripcion": "Parada de taxis" },
+  { "id": "taxi-1", "nombre": "Parada taxi 1", "tipo": "taxi", "lat": 38.995254, "lng": -1.867269, "icono": "taxi", "descripcion": "Parada de taxis" },
+
+
+ 
+  { "id": "planos-3", "nombre": "Entrada Templete", "tipo": "puerta", "lat": 38.99717629, "lng": -1.86995193 },
+  { "id": "planos-4", "nombre": "Puerta R2", "tipo": "puerta", "lat": 38.99669100, "lng": -1.86950916 },
+  { "id": "planos-5", "nombre": "Puerta de Hierros R1", "tipo": "puerta", "lat": 38.99697, "lng": -1.86832 },
+  { "id": "planos-6", "nombre": "Puerta R8", "tipo": "puerta", "lat": 38.99746, "lng": -1.86934 },
+  { "id": "planos-7", "nombre": "Puerta R7", "tipo": "puerta", "lat": 38.99788328, "lng": -1.87024686 },
+  { "id": "planos-8", "nombre": "Puerta R6", "tipo": "puerta", "lat": 38.99787194, "lng": -1.87070698 },
+  { "id": "planos-9", "nombre": "Puerta R5", "tipo": "puerta", "lat": 38.99730313, "lng": -1.87131219 },
+  { "id": "planos-10", "nombre": "Puerta R4", "tipo": "puerta", "lat": 38.99665187, "lng": -1.87101097 },
+  { "id": "planos-11", "nombre": "Puerta R3", "tipo": "puerta", "lat": 38.99649234,"lng": -1.87051446 },
+
+  { "id": "bici-1", "nombre": "Parking bicis 1", "tipo": "bici", "lat": 38.998167, "lng": -1.865835, "icono": "bike", "descripcion": "Aparcamiento de bicicletas" },
+  { "id": "bici-2", "nombre": "Parking bicis 2", "tipo": "bici", "lat": 38.995706, "lng": -1.867400, "icono": "bike", "descripcion": "Aparcamiento de bicicletas" },
+  { "id": "bici-3", "nombre": "Parking bicis 3", "tipo": "bici", "lat": 38.998364, "lng": -1.862709, "icono": "bike", "descripcion": "Aparcamiento de bicicletas" },
+  { "id": "bici-4", "nombre": "Parking bicis 4", "tipo": "bici", "lat": 38.996098, "lng": -1.861979, "icono": "bike", "descripcion": "Aparcamiento de bicicletas" },
+  { "id": "bici-5", "nombre": "Parking bicis 5", "tipo": "bici", "lat": 38.994978, "lng": -1.871015, "icono": "bike", "descripcion": "Aparcamiento de bicicletas" }
+
+]
