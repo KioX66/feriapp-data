@@ -7,8 +7,8 @@
 "showRealConcerts": false,
     "showOficialMaps": false,
     "showCartel": false,
-    "showStore": false,
-    "storeUrl": "",
+    "showStore": true,
+    "storeUrl": "https://manuelawear.etsy.com",
     "isLastProgramData": false
     
     
